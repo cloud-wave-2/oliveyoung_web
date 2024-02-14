@@ -1,3 +1,44 @@
+## **[oliveyoung_web](https://github.com/cloud-wave-2/oliveyoung_web/tree/main)**
+
+/**WebContent**
+
+1. 메인페이지: home.html
+2. 로그인 페이지: loginForm.html
+3. 회원 가입 페이지: joinAgreeForm.html
+4. 상품 페이지: prdmain.html
+5. 주문 완료 페이지: OrderList2.html
+
+/**img**
+
+이미지 폴더는 있으나 모든 이미지는 https://cloudsnack-website-images.s3.ap-northeast-2.amazonaws.com/img 에서 가져온다.
+
+## 페이지 구성
+
+### 1. 메인 페이지
+
+- <로그인> 버튼 선택 → **로그인 페이지**
+- <제품> 버튼 선택 → **상품 페이지**
+
+### 2. 로그인 페이지
+
+- <회원가입> 버튼 선택 → **회원 가입 페이지**
+
+### 3. 회원 가입 페이지
+
+- <동의> 버튼 선택 → **(메인 페이지 or 로그인 페이지)**
+
+### 4. 상품 페이지
+
+- <바로 구매> 버튼 선택 → **주문 완료 페이지**
+
+### 5. 주문 완료 페이지
+
+- (옵션) <홈으로> 버튼 선택 → **메인 페이지**
+
+
+
+## 원본 README.md
+
 ☘️ YOUNG ☘️
 =============
 
